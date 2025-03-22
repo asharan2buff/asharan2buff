@@ -172,6 +172,6 @@
 
 ---
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=asharan2buff&show_icons=true&locale=en" alt="asharan2buff" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asharan2buff&show_icons=true&locale=en&layout=compact" alt="asharan2buff" /></p>
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asharan2buff&show_icons=true&locale=en)
+
