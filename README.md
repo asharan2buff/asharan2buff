@@ -23,8 +23,35 @@
 - 📸 **Transfer Learning for Multi-Class Image Classification**  
   Developed a multi-class image classifier using transfer learning with models like EfficientNetB0, ResNet, and VGG16, achieving a validation accuracy of 92.57%.  
 
-- 💳 **Predicting Customer Enrolment for BNPL**  
-  Designed a predictive ML model for customer adoption of a "Buy Now, Pay Later" feature in a retail app, boosting conversion rates by 20%.  
+- 💳 **[Buy Now, Pay Later](https://github.com/asharan2buff/Buy-Now-Pay-Later)**  
+  Designed a predictive model for customer adoption of a "Buy Now, Pay Later" feature in a retail app, integrating data-driven insights to boost conversion rates.
+
+- 🔢 **[OctMnist Classification](https://github.com/asharan2buff/OctMnist-Classification)**  
+  Developed a deep learning classifier on the OctMNIST dataset, leveraging CNN architectures to achieve high accuracy in digit recognition.
+
+- 🚀 **[SVHN CNN Optimization](https://github.com/asharan2buff/SVHN-CNN-Optimization)**  
+  Optimized a Convolutional Neural Network for the SVHN dataset, reducing inference time while maintaining robust performance on real-world image data.
+
+- 🤖 **[Therapy.ai](https://github.com/asharan2buff/Therapy.ai)**  
+  Created an AI-powered chatbot using natural language processing to provide mental health support and therapy recommendations in a user-friendly interface.
+
+- 📈 **[Stock Price Prediction Using Reinforcement Learning](https://github.com/asharan2buff/Stock-Price-Prediction-Using-Reinforcement-Learning)**  
+  Built a reinforcement learning model to predict stock prices and optimize trading strategies, resulting in enhanced decision-making for market investments.
+
+- 🏭 **[Reinforcement Learning Warehouse Robot](https://github.com/asharan2buff/Reinforecement-Learning-Warehouse-Robot)**  
+  Implemented RL algorithms for robotic navigation and task planning in a simulated warehouse environment, improving operational efficiency and route optimization.
+
+- 😊 **[Sentiment Analysis using LSTM](https://github.com/asharan2buff/Sentiment-analysis-using-LSTM)**  
+  Developed an LSTM-based model to analyze sentiment from textual data, achieving robust performance in classifying customer reviews and social media posts.
+
+- ⏱ **[Time Series Forecasting using LSTM](https://github.com/asharan2buff/Time-Series-Forecasting-using-LSTM)**  
+  Designed an LSTM network for time series forecasting, delivering accurate predictions across various domains including finance and demand planning.
+
+- 🖼 **[VGG16 vs ResNet18 vs ResNeXt](https://github.com/asharan2buff/VGG16-vs-ResNet18-vs-ResNext)**  
+  Conducted a comparative study on popular CNN architectures (VGG16, ResNet18, and ResNeXt) to evaluate performance trade-offs in multi-class image classification tasks.
+
+- 🦠 **[Rabies Prediction](https://github.com/asharan2buff/Rabies-Prediction)**  
+  Developed a machine learning model to forecast rabies outbreaks using epidemiological data, aiding in proactive public health planning and intervention.
 
 ---
 
