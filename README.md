@@ -57,9 +57,12 @@
 
 
 <h3 align="left">💬 Ask Me About</h3>
-- Machine Learning & Deep Learning  
-- Full-Stack Development  
-- Cloud & DevOps Technologies  
+- Machine Learning, Reinforcement Learning, Deep Learning
+
+- Full-Stack Development
+    
+- Cloud & DevOps Technologies
+   
 - Competitive Programming  
 
 ---
