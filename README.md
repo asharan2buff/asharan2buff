@@ -127,14 +127,21 @@
 
 ---
 
-<h3 align="left">🏆 Achievements & Awards</h3>
-- 📝 ** Publication**: Published "Bike Count Sharing Prediction Using Machine Learning" in (https://www.ijaresm.com/assdfds)
+---
 
-- 🏅 ** People’s Choice Award**: Won Lam India Hackathon 2021 for building a VR Lab Assistant App (Flutter + Unity3D), earning a $1500 prize.
--  
-- 🎗️ ** Samarpana Marathon**: Raised $50K for martyred soldiers’ families through a student-led campaign. 
+<h3 align="left">🏆 Achievements & Awards</h3>
+
+- 📝 **Publication**  
+  Published "Bike Count Sharing Prediction Using Machine Learning" in [Ijaresm](https://www.ijaresm.com/assdfds).  
+
+- 🏅 **People’s Choice Award**  
+  Won Lam India Hackathon 2021 for building a VR Lab Assistant App (Flutter + Unity3D), earning a $1500 prize.  
+
+- 🎗️ **Samarpana Marathon**  
+  Raised $50K for martyred soldiers’ families through a student-led campaign.  
 
 ---
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=asharan2buff&show_icons=true&locale=en" alt="asharan2buff" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asharan2buff&show_icons=true&locale=en&layout=compact" alt="asharan2buff" /></p>
