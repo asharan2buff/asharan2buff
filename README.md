@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Sharan</h1>
-<h3 align="center">A Full-Stack Developer and ML Engineer with expertise in cloud technologies and system optimization.</h3>
+<h3 align="center">A Full-Stack Developer and ML enthusiast with expertise in building Scalable systems,Cloud technologies,Operating system, ML models and System optimization.</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ashutosh-sharan" target="_blank">
