@@ -172,5 +172,5 @@
 
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asharan2buff&show_icons=true&locale=en&layout=compact&&hide=cython&&show=java" alt="asharan2buff" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asharan2buff&show_icons=true&locale=en&layout=compact&&hide=cython,fortran&&show=java" alt="asharan2buff" /></p>
 
