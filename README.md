@@ -16,9 +16,9 @@
 ---
 
 <h3 align="left">🔭 Projects</h3>
-- 🚀 ** Gen AI-Powered Database Interaction System**: Built a Retrieval-Augmented Generation (RAG)-based application using Flask, LLM, and ChromaDB for seamless NLP-driven database interactions with PostgreSQL and MongoDB, enhancing query efficiency by 50%.  
-- 📸 ** Transfer Learning for Multi-Class Image Classification**: Developed a multi-class image classifier using transfer learning with models like EfficientNetB0, ResNet, and VGG16, achieving a validation accuracy of 92.57%.  
-- 💳 ** Predicting Customer Enrolment for BNPL**: Designed a predictive ML model for customer adoption of a "Buy Now, Pay Later" feature in a retail app, boosting conversion rates by 20%.  
+- 🚀 ** Gen AI-Powered Database Interaction System**: Built a Retrieval-Augmented Generation (RAG)-based application using Flask, LLM, and ChromaDB for seamless NLP-driven database interactions with PostgreSQL and MongoDB, enhancing query efficiency by 50%. ** 
+- 📸 ** Transfer Learning for Multi-Class Image Classification**: Developed a multi-class image classifier using transfer learning with models like EfficientNetB0, ResNet, and VGG16, achieving a validation accuracy of 92.57%.  **
+- 💳 ** Predicting Customer Enrolment for BNPL**: Designed a predictive ML model for customer adoption of a "Buy Now, Pay Later" feature in a retail app, boosting conversion rates by 20%.  **
 
 ---
 
@@ -121,9 +121,9 @@
 ---
 
 <h3 align="left">🏆 Achievements & Awards</h3>
-- 📝 ** Publication**: Published "Bike Count Sharing Prediction Using Machine Learning" in Ijaresm.  
-- 🏅 ** People’s Choice Award**: Won Lam India Hackathon 2021 for building a VR Lab Assistant App (Flutter + Unity3D), earning a $1500 prize.  
-- 🎗️ ** Samarpana Marathon**: Raised $50K for martyred soldiers’ families through a student-led campaign.  
+- 📝 ** Publication**: Published "Bike Count Sharing Prediction Using Machine Learning" in (https://www.ijaresm.com/assdfds)  **
+- 🏅 ** People’s Choice Award**: Won Lam India Hackathon 2021 for building a VR Lab Assistant App (Flutter + Unity3D), earning a $1500 prize.  **
+- 🎗️ ** Samarpana Marathon**: Raised $50K for martyred soldiers’ families through a student-led campaign.  **
 
 ---
 
