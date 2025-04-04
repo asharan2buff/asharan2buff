@@ -52,6 +52,9 @@
 
 - 🦠 **[Rabies Prediction](https://github.com/asharan2buff/Rabies-Prediction)**  
   Developed a machine learning model to forecast rabies outbreaks using epidemiological data, aiding in proactive public health planning and intervention.
+  
+- 💰 **[AI Model Price Calculator (Streamlit App)](https://github.com/asharan2buff/ModelPricing/tree/main)**  
+  Built a cost estimation tool for token-based AI model usage including LLaMA, Qwen, DeepSeek, and FLUX models. Designed using Streamlit with interactive tabs, CSV upload support, token counting via `tiktoken`, and dynamic pricing summaries to support budgeting for GenAI projects.
 
 ---
 
